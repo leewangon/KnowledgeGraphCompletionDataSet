@@ -22,7 +22,7 @@
    #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
 ## The institute to construct dataset
-* The AI Lab in Soongsil University
+* __The AI Lab in Soongsil University__
 
 ## Citation
 ```
