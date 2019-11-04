@@ -22,6 +22,7 @@
     * e2, e3 - Entity
 ```
 ## Details of data
+*[nationality](www.naver.com)
 
 ## The institute to construct dataset
 
