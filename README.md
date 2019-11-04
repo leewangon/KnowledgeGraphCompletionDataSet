@@ -1,25 +1,20 @@
 # Knowledge Graph Completion DataSet
 ```
-    This repository contains datasets for building nationality and job inference models.
+    This repository contains datasets for learning knowledge graph completion.
 ```
 ## Data overview
-```description01
-    In this project, we trained the model based on two 'relations'. The two 'relations' are 'nationality' and 'job'. 
-    Each 'relation' has negative data and positive data.
+```
+    In this project, we trained the model based on target relations. 
+    Each target relations has negative data and positive data.
 ```
 
 ## Data format
-```description02
-    This data is 3 type and each represented by a sequence of the following format.
-    
-    1. seed, r1, e2, r2, e3, r3, target
-    2. seed, r1, e2, r2, target
-    3. seed, r1, target
-    
-    * seed - Start Entity
-    * target - Target Entity
-    * r1, r2, r3 - Relation
-    * e2, e3 - Entity
+```
+   This data is represented by a sequence of the following n-triple format.
+   n-triple - a format for storing and transmitting data. 
+            - a line-based, plain text serialisation format for RDF (Resource Description Framework) graphs.
+            - a subset of the Turtle (Terse RDF Triple Language) format.
+   <subject, relation, object>
 ```
 ## Data for each task
 #### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
@@ -28,3 +23,15 @@
 ## The institute to construct dataset
 
 ## Citation
+```
+    @article{huang2007constructing,
+      title={Constructing a personalized e-learning system based on genetic algorithm and case-based reasoning approach},
+      author={Huang, Mu-Jung and Huang, Hwa-Shan and Chen, Mu-Yen},
+      journal={Expert Systems with Applications},
+      volume={33},
+      number={3},
+      pages={551--564},
+      year={2007},
+      publisher={Elsevier}
+    }
+```
