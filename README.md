@@ -22,8 +22,8 @@
     * e2, e3 - Entity
 ```
 ## Details of data
-*[nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
-*[job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
+### Task1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
+### Task2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
 ## The institute to construct dataset
 
