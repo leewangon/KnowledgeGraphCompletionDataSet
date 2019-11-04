@@ -1,11 +1,11 @@
 # KnowledgeGraphCompletionDataSet
 ```
-This repository contains datasets for building nationality and occupational inference models.
+This repository contains datasets for building nationality and job inference models.
 ```
 ## Data overview
 ```description01
-    This repository contains refinement dataset to train and evaluate knowledge graph model.
-    If you have any questions or comments, please fell free to contact us by email [leewangon@gmail.com].
+    In this project, we trained the model based on two 'relations'. The two 'relations' are 'nationality' and 'job'. 
+    Each 'relation' has negative data and positive data.
 ```
 
 ## Data format
