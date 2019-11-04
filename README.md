@@ -20,7 +20,7 @@
 Pre-processed knwoledge graph : [graph.zip (zip file, MB)]()
 
 ||Kor-KB|
-|:-----------:|------------:|------------:|
+|:-----------:|------------:|
 |Size|42MB|
 |Triples|1,315,146|
 |Entities|488,926|
