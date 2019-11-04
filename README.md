@@ -16,10 +16,10 @@
             - a subset of the Turtle (Terse RDF Triple Language) format.
    <subject, relation, object>
 ```
-## Data for each task
-
-   #### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
-   #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
+## Data Set
+Pre-processed knwoledge graph : [graph.zip (zip file, MB)]()
+#### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
+#### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
