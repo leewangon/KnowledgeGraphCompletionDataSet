@@ -11,3 +11,8 @@
     In this project, we eliminated triples about coordinates, time and dates.  
     In addition, ambiguous data related to the university's sports team were excluded.
 ```
+## Details of data
+
+## The institute to construct dataset
+
+## Citation
