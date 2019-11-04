@@ -10,7 +10,7 @@
 
 ## Data format
 ```description02
-    This data is represented by a sequence of the following format.
+    This data is 3 type and each represented by a sequence of the following format.
     
     1. seed, r1, e2, r2, e3, r3, target
     2. seed, r1, e2, r2, target
