@@ -1,4 +1,4 @@
-# KnowledgeGraphCompletionDataSet
+# Knowledge Graph Completion DataSet
 ```
     This repository contains datasets for building nationality and job inference models.
 ```
@@ -21,7 +21,7 @@
     * r1, r2, r3 - Relation
     * e2, e3 - Entity
 ```
-## Data for each Task
+## Data for each task
 #### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
 #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
