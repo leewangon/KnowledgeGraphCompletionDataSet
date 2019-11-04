@@ -22,9 +22,8 @@
    #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
 ## The institute to construct dataset
-```
-    Activity intention labeling: Soongsil University
-```
+* __Activity intention labeling: Soongsil University
+
 
 ## Citation
 ```
