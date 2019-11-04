@@ -21,7 +21,7 @@
     * r1, r2, r3 - Relation
     * e2, e3 - Entity
 ```
-## Details of data
+## Data for each Task
 #### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
 #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
