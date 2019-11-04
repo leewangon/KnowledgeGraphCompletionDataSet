@@ -22,7 +22,7 @@
     * e2, e3 - Entity
 ```
 ## Details of data
-*[nationality](www.naver.com)
+*[nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
 
 ## The institute to construct dataset
 
