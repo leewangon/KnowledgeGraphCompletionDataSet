@@ -17,7 +17,7 @@
    <subject, relation, object>
 ```
 ## Data Set
-Pre-processed knwoledge graph : [graph.zip (zip file, MB)]()
+Pre-processed knwoledge graph : [graph.zip (zip file, 42MB)]()
 
 ||Kor-KB|
 |:-----------:|------------:|
