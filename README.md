@@ -1,11 +1,11 @@
 # Knowledge Graph Completion DataSet
 ```
-    This repository contains datasets for learning knowledge graph completion.
+    Refined Training and Test dataset for Knowledge Graph Model
 ```
 ## Data overview
 ```
-    In this project, we trained the model based on target relations. 
-    Each target relations has negative data and positive data.
+    This repository contains refinement dataset to train and evaluate knowledge graph model.
+    If you have any questions or comments, please fell free to contact us by email [leewangon@gmail.com].
 ```
 
 ## Data format
