@@ -10,8 +10,16 @@
 
 ## Data format
 ```description02
-    In this project, we eliminated triples about coordinates, time and dates.  
-    In addition, ambiguous data related to the university's sports team were excluded.
+    This data is represented by a sequence of the following format.
+    
+    1. seed, r1, e2, r2, e3, r3, target
+    2. seed, r1, e2, r2, target
+    3. seed, r1, target
+    
+    * seed - Start Entity
+    * target - Target Entity
+    * r1, r2, r3 - Relation
+    * e2, e3 - Entity
 ```
 ## Details of data
 
