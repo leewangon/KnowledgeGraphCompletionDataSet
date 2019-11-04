@@ -18,6 +18,15 @@
 ```
 ## Data Set
 Pre-processed knwoledge graph : [graph.zip (zip file, MB)]()
+
+||Kor-KB|
+|:-----------:|------------:|------------:|
+|Size|42MB|
+|Triples|1,315,146|
+|Entities|488,926|
+|Relations|157|
+|Classes|921|
+
 #### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
 #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 
