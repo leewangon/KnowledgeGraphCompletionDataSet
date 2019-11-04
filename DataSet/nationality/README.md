@@ -26,6 +26,18 @@
 ### Sample
 ||subject|object|label|
 |:-----------:|------------:|------------:|------------:|
-|1|김을동|대한민국|+|
-|2|김을동|미국|-|
+|1|김종성|대한민국|+|
+|2|김종성|미국|-|
+|...|...|...|...|
+
+## train.pairs
+```
+  This data is represented by a sequence of the following format.
+  subject, object, label
+```
+### Sample
+||subject|object|label|
+|:-----------:|------------:|------------:|------------:|
+|1|김경민|대한민국|+|
+|2||미국|-|
 |...|...|...|...|
