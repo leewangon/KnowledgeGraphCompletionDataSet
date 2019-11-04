@@ -1,5 +1,7 @@
 # KnowledgeGraphCompletionDataSet
-
+```
+This repository contains datasets for building nationality and occupational inference models.
+```
 ## Data overview
 ```description01
     This repository contains refinement dataset to train and evaluate knowledge graph model.
