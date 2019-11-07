@@ -19,13 +19,13 @@
 ## Data Set
 Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/blob/master/DataSet/graph.zip)
 
-||Kor-KB|
-|:-----------:|------------:|
-|Size|42MB|
-|Triples|1,315,146|
-|Entities|488,926|
-|Relations|157|
-|Classes|921|
+||Kor-KB||NELL-995|Fb15K-237|
+|:-----------:|------------:|------------:|------------:|
+|Size|42MB|26MB|47MB|
+|Triples|1,315,146|308,426|309,800|
+|Entities|488,926|75,492|14,536|
+|Relations|157|400|236|
+|Classes|921|292|354|
 
 #### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
 #### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
@@ -36,14 +36,13 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 
 ## Citation
 ```
-    @article{huang2007constructing,
-      title={Constructing a personalized e-learning system based on genetic algorithm and case-based reasoning approach},
-      author={Huang, Mu-Jung and Huang, Hwa-Shan and Chen, Mu-Yen},
+    @article{jagvaral2020path,
+      title={Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism},
+      author={Jagvaral, Batselem and Lee, Wan-Kon and Roh, Jae-Seung and Kim, Min-Sung and Park, Young-Tack},
       journal={Expert Systems with Applications},
-      volume={33},
-      number={3},
-      pages={551--564},
-      year={2007},
+      volume={142},
+      pages={112960},
+      year={2020},
       publisher={Elsevier}
     }
 ```
