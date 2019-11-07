@@ -19,7 +19,7 @@
 ## Data Set
 Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/blob/master/DataSet/graph.zip)
 
-||Kor-KB||NELL-995|Fb15K-237|
+||Kor-KB|NELL-995|Fb15K-237|
 |:-----------:|------------:|------------:|------------:|
 |Size|42MB|26MB|47MB|
 |Triples|1,315,146|308,426|309,800|
