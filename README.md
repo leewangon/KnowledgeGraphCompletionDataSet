@@ -32,8 +32,8 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 ##### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 ##### Task #3 : [employer]()
 
-### NELL-995
-    Link(https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
+### NELL-995 
+- Link(https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
 ### FB15K-237
     Link(https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
 
