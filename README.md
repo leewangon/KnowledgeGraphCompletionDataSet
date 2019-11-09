@@ -33,9 +33,9 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 ##### Task #3 : [employer]()
 
 ### NELL-995 
-- Link(https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
+- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
 ### FB15K-237
-    Link(https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
+- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
