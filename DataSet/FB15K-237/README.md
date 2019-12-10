@@ -1,4 +1,4 @@
-# NELL-995
+FB15K-237
 
 ## Graph.txt
 ```
