@@ -23,9 +23,9 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 |:-----------:|------------:|------------:|------------:|
 |Size|42MB|26MB|47MB|
 |Triples|1,315,146|308,426|309,800|
-|Entities|488,926|75,492|14,536|
-|Relations|157|400|236|
-|Classes|921|292|354|
+|Entities|488,926|63,917|14,536|
+|Relations|157|396|236|
+|Classes|921|267|354|
 
 ### Kor-KB
 ##### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
