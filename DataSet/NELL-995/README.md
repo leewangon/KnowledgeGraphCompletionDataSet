@@ -33,7 +33,6 @@
   This data is represented by a sequence of the following format.
   subject, object, label
   
-  # of Pairs : 14,727
 ```
 ### Sample
 ||subject|object|label|
@@ -47,7 +46,6 @@
   This data is represented by a sequence of the following format.
   subject, object, label
   
-  # of Pairs : 58,893
 ```
 ### Sample
 ||subject|object|label|
