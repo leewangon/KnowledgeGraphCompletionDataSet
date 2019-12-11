@@ -30,7 +30,7 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 ### Kor-KB
 ##### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
 ##### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
-##### Task #3 : [employer]()
+##### Task #3 : [employer](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/employer)
 
 ### NELL-995 
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
