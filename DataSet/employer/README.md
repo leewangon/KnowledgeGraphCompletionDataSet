@@ -1,11 +1,11 @@
-# job
+# employer
 
 ## Graph.txt
 ```
   This data is represented by a sequence of the following format.
   subject, relation, object
   
-  # of Triples : 1,941,580
+  # of Triples : 1,057,470
   
 ```
 ### Sample
@@ -21,7 +21,7 @@
   This data is represented by a sequence of the following format.
   subject, object, label
   
-  # of Pairs : 79,500
+  # of Pairs : 14,268
 ```
 ### Sample
 ||subject|object|label|
@@ -35,7 +35,7 @@
   This data is represented by a sequence of the following format.
   subject, object, label
   
-  # of Pairs : 288,437
+  # of Pairs : 42,309
 ```
 ### Sample
 ||subject|object|label|
