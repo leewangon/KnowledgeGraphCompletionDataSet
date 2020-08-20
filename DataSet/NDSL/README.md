@@ -1,4 +1,4 @@
-# FNDSL
+# NDSL
 
 ## Graph.nt
 ```
