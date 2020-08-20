@@ -19,13 +19,13 @@
 ## Data Set
 Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/blob/master/DataSet/graph.zip)
 
-||Kor-KB|NELL-995|FB15K-237|
-|:-----------:|------------:|------------:|------------:|
-|Size|42MB|26MB|41MB|
-|Triples|1,315,146|308,426|544,230|
-|Entities|488,926|63,917|14,505|
-|Relations|157|396|237|
-|Classes|921|267|354|
+||Kor-KB|NELL-995|FB15K-237|NDSL|
+|:-----------:|------------:|------------:|------------:|------------:|
+|Size|42MB|26MB|41MB|42MB|
+|Triples|1,315,146|308,426|544,230|660,723|
+|Entities|488,926|63,917|14,505|263,074|
+|Relations|157|396|237|27|
+|Classes|921|267|354|13|
 
 ### Kor-KB
 ##### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
@@ -36,6 +36,8 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
 ### FB15K-237
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
+### NDSL
+- [Link]()
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
