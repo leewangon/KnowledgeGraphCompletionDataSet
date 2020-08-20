@@ -1,6 +1,7 @@
 # DBpedia
 
 ## DBpedia_graph.csv
+- [Download](https://drive.google.com/file/d/11S8Fhkv_c9t9C9PjXYk33CEn9CJrfdAr/view?usp=sharing)
 ```
   This data is represented by a sequence of the following format.
   subject, relation, object
