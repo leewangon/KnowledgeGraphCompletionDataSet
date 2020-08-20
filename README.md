@@ -37,7 +37,7 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 ### FB15K-237
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
 ### NDSL
-- [Link]()
+- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NDSL)
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
