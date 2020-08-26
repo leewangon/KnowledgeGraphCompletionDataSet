@@ -22,10 +22,10 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 ||Kor-KB|NELL-995|FB15K-237|NDSL|DBpedia|DBpia
 |:-----------:|------------:|------------:|------------:|------------:|------------:|------------:|
 |Size|42MB|26MB|41MB|42MB|711MB||
-|Triples|1,315,146|308,426|544,230|660,723|14,000,000||
-|Entities|488,926|63,917|14,505|263,074|4,250,000||
-|Relations|157|396|237|27|717||
-|Classes|921|267|354|13|451||
+|Triples|1,315,146|308,426|544,230|221,253|14,000,000|912,412|
+|Entities|488,926|63,917|14,505|246,850|4,250,000|409,693|
+|Relations|157|396|237|5|717|4|
+|Classes|921|267|354|5|451|6|
 
 ### Kor-KB
 ##### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
