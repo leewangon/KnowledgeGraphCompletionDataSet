@@ -5,7 +5,7 @@
   This data is represented by a sequence of the following format.
   subject, relation, object
   
-  # of Triples : 660,723	
+  # of Triples : 221,253	
   
 ```
 ### Sample
