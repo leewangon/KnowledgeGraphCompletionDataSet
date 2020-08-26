@@ -17,7 +17,6 @@
    <subject, relation, object>
 ```
 ## Data Set
-Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/blob/master/DataSet/graph.zip)
 
 ||Kor-KB|NELL-995|FB15K-237|NDSL|DBpedia|DBpia
 |:-----------:|------------:|------------:|------------:|------------:|------------:|------------:|
@@ -41,7 +40,7 @@ Pre-processed knwoledge graph : [graph.zip (zip file, 8MB)](https://github.com/l
 ### DBpedia
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpedia)
 ### DBpia
-- [Link]()
+- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpia)
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
