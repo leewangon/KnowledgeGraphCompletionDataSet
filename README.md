@@ -32,16 +32,11 @@
 ##### Task #3 : [employer](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/employer)
 
 ### NELL-995 [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
-### FB15K-237
-- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
-### NDSL
-- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NDSL)
-### DBpedia
-- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpedia)
-### DBpia
-- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpia)
-### KData
-- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/KData)
+### FB15K-237 [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
+### NDSL [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NDSL)
+### DBpedia [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpedia)
+### DBpia [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpia)
+### KData [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/KData)
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
