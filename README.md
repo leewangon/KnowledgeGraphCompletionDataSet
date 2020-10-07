@@ -31,8 +31,7 @@
 ##### Task #2 : [job](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/job)
 ##### Task #3 : [employer](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/employer)
 
-### NELL-995 
-- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
+### NELL-995 [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/NELL-995)
 ### FB15K-237
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/FB15K-237)
 ### NDSL
