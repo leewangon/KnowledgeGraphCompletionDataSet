@@ -2,7 +2,7 @@
 
 ## KData_graph.nt
 - [Download](https://drive.google.com/file/d/1B1iErjJZ2gr3w7lm5K7jYkJ-1jfljI8e/view?usp=sharing)
-- 협업 기업과 활용한 데이터 이며, 라이센스는 (주)리스트 에 있음
+- KData의 라이센스는 (주)리스트 에 있음
 ```
   This data is represented by a sequence of the following format.
   subject, relation, object
