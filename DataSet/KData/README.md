@@ -1,1 +1,18 @@
-test
+# KData
+
+## KData_graph.nt
+```
+  This data is represented by a sequence of the following format.
+  subject, relation, object
+  
+  # of Triples : 2,776,394
+  
+```
+### Sample
+||subject|relation|object|
+|:-----------:|------------:|------------:|------------:|
+|1|백남준	|직업|아티스트|
+|2|함석헌	|자녀|함국용|
+|3|김수철 |출생지|서울특별시|
+|4|황현주	|국적|대한민국|
+|...|...|...|...|
