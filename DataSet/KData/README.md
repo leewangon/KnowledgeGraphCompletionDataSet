@@ -1,6 +1,7 @@
 # KData
 
 ## KData_graph.nt
+- [Download](https://drive.google.com/file/d/1B1iErjJZ2gr3w7lm5K7jYkJ-1jfljI8e/view?usp=sharing)
 ```
   This data is represented by a sequence of the following format.
   subject, relation, object
