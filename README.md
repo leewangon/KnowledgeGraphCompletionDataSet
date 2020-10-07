@@ -19,12 +19,12 @@
 ## Data Set
 
 ||Kor-KB|NELL-995|FB15K-237|NDSL|DBpedia|DBpia
-|:-----------:|------------:|------------:|------------:|------------:|------------:|------------:|
-|Size|42MB|26MB|41MB|26MB|711MB|64MB|
-|Triples|1,315,146|308,426|544,230|221,253|14,000,000|912,412|
-|Entities|488,926|63,917|14,505|246,850|4,250,000|409,693|
-|Relations|157|396|237|5|717|4|
-|Classes|921|267|354|5|451|6|
+|:-----------:|------------:|------------:|------------:|------------:|------------:|------------:|------------:|
+|Size|42MB|26MB|41MB|26MB|711MB|64MB|139MB|
+|Triples|1,315,146|308,426|544,230|221,253|14,000,000|912,412|2,270,000|
+|Entities|488,926|63,917|14,505|246,850|4,250,000|409,693|1,140,000|
+|Relations|157|396|237|5|717|4|10,409|
+|Classes|921|267|354|5|451|6|113|
 
 ### Kor-KB
 ##### Task #1 : [nationality](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/nationality)
@@ -41,6 +41,8 @@
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpedia)
 ### DBpia
 - [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/DBpia)
+### KData
+- [Link](https://github.com/leewangon/KnowledgeGraphCompletionDataSet/tree/master/DataSet/KData)
 
 ## The institute to construct dataset
 * __The AI Lab in Soongsil University__
