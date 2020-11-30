@@ -2,7 +2,7 @@
 ```
     Refined Training and Test dataset for Knowledge Graph Model
 ```
-## Data overviewa
+## Data overview
 ```
     This repository contains refinement dataset to train and evaluate knowledge graph model.
     If you have any questions or comments, please fell free to contact us by email [leewangon@gmail.com].
