@@ -1,6 +1,4 @@
-# Knowledge Graph Completion DataSet
-```
-    Refined Training and Test dataset for Knowledge Graph Model
+
 ```
 ## Data overview
 ```
